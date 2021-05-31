@@ -1,0 +1,6 @@
+numpy==1.20.3
+scipy==1.6.3
+json5==0.9.3
+matplotlib==3.4.2
+python-speech-features==0.6
+playsound==1.2.2
